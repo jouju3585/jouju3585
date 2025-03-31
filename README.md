@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFD2D2&height=150&section=header&text=Jiwoo's%20Github&fontSize=70)
 
 ## 🐾 PROFILE
+안녕하세요 데이터 분석과 프론트엔드에 관심이 많은 김지우 입니다 -!
 
 
 ## 🔧 STACKS
